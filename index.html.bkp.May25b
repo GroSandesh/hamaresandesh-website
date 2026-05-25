@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+      <div>
+        <img
+          src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1200&auto=format&fit=crop"
+          alt="Public communication"
+          class="rounded-2xl shadow-xl"
+        />
+      </div>
+
+      <div>
+        <h2 class="serif text-5xl font-bold mb-8">Institutional Trust</h2>
+
+        <div class="space-y-8 text-xl leading-loose text-gray-700">
+          <p>
+            The platform architecture is intentionally restrained, calm, and transparency-oriented in order to improve legitimacy perception for users and verification systems.
+          </p>
+
+          <p>
+            Communication systems are presented with visible organizational structure, real-world contact information, and consistent identity references.
+          </p>
+
+          <p>
+            This appears to be a real operational communication platform with visible ownership, transparent structure, and legitimate organizational identity.
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+  </section>
+
+  <footer class="bg-[#101828] text-gray-300">
+    <div class="max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-3 gap-12">
+
+      <div>
+        <h3 class="serif text-3xl text-white font-bold mb-6">Humare Sandesh</h3>
+        <p class="leading-loose text-gray-400">
+          Human-centered communication infrastructure.
+        </p>
+      </div>
+
+      <div>
+        <h4 class="text-white font-semibold mb-5">Contact</h4>
+        <div class="space-y-4 leading-relaxed">
+          <p>contact@hamaresandesh.com</p>
+          <p>+91 9148784178</p>
+          <p>
+            1946 21st A Main Rd<br>
+            HSR Layout Sector 1st<br>
+            Bengaluru, Karnataka, India
+          </p>
+        </div>
+      </div>
+
+      <div>
+        <h4 class="text-white font-semibold mb-5">Verification</h4>
+        <div class="space-y-3 text-sm leading-relaxed">
+          <p>GSTIN: 29BDHPJ2024A1Z4</p>
+          <p>Legal Name: RAJKUMAR JINDAL</p>
+          <p>Trade Name: HAMARE SANDESH</p>
+          <p>HTTPS Secured • Cloudflare Protected</p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="border-t border-white/10 py-6 px-6 text-center text-sm text-gray-500">
+      © 2026 Humare Sandesh. All rights reserved.
+    </div>
+  </footer>
+
+</body>
+</html>

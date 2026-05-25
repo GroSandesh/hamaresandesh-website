@@ -5,12 +5,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Hamare Sandesh | Public Communication Platform</title>
+  <title>Humare Sandesh | Public Communication Platform</title>
 
   <meta name="description"
-    content="Hamare Sandesh is a public communication and citizen interaction platform focused on accessible WhatsApp-based communication, institutional transparency, and human-centered information support." />
+    content="Humare Sandesh is a public communication and citizen interaction platform focused on accessible WhatsApp-based communication, institutional transparency, and human-centered information support." />
 
-  <meta property="og:title" content="Hamare Sandesh" />
+  <meta property="og:title" content="Humare Sandesh" />
   <meta property="og:description"
     content="Public communication infrastructure focused on accessible citizen interaction and verified communication systems." />
   <meta property="og:type" content="website" />
@@ -68,11 +68,6 @@
         transform: translateY(0);
       }
     }
-
-    .justify-text {
-      text-align: justify;
-      text-justify: inter-word;
-    }
   </style>
 </head>
 
@@ -97,22 +92,22 @@
       <div class="max-w-5xl fade-up">
 
         <div class="uppercase tracking-[0.35em] text-white/60 text-xs md:text-sm mb-8">
-          Meta Verified Public Communication Platform
+          Verified Public Communication Platform
         </div>
 
         <h1 class="serif text-white text-6xl md:text-8xl leading-none mb-10">
 
-          Hamare Sandesh
+          Humare Sandesh
 
         </h1>
 
-        <p class="text-white text-2xl md:text-5xl leading-tight font-light max-w-6xl mb-12 justify-text">
+        <p class="text-white text-2xl md:text-5xl leading-tight font-light max-w-6xl mb-12">
 
-          WhatsApp-based communication for the public that centers around making public interaction accessible and verified.
+          WhatsApp-based public communication infrastructure focused on accessible citizen interaction and verified institutional communication.
 
         </p>
 
-        <p class="text-white/70 text-lg md:text-2xl leading-10 max-w-4xl justify-text">
+        <p class="text-white/70 text-lg md:text-2xl leading-10 max-w-4xl">
 
           Human-centered communication systems designed around transparency, operational clarity, and real-world accessibility across familiar messaging platforms.
 
@@ -142,23 +137,23 @@
 
       <div class="grid md:grid-cols-2 gap-14 text-xl leading-10 text-black/70">
 
-        <div class="space-y-8 justify-text">
+        <div class="space-y-8">
 
           <p>
 
-            Hamare Sandesh is a communication platform focused on enabling accessible interaction between citizens and structured information systems using familiar messaging tools.
+            Humare Sandesh is a communication platform focused on enabling accessible interaction between citizens and structured information systems using familiar messaging tools.
 
           </p>
 
           <p>
 
-            The platform emphasizes verified communication, operational transparency, and calm human-centered interaction design.
+            The platform emphasizes verified communication identity, operational transparency, and calm human-centered interaction design.
 
           </p>
 
         </div>
 
-        <div class="space-y-8 justify-text">
+        <div class="space-y-8">
 
           <p>
 
@@ -211,7 +206,7 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
 
             </h2>
 
-            <p class="text-white/75 text-lg leading-9 justify-text">
+            <p class="text-white/75 text-lg leading-9">
 
               The communication platform emphasizes transparency, operational accessibility, and familiar messaging systems designed around real-world usage patterns.
 
@@ -231,11 +226,11 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
             Communication Philosophy
           </div>
 
-          <div class="space-y-10 text-xl leading-10 text-black/70 justify-text">
+          <div class="space-y-10 text-xl leading-10 text-black/70">
 
             <p>
 
-              Hamare Sandesh is designed around the idea that communication systems should feel understandable, visible, and institutionally grounded.
+              Humare Sandesh is designed around the idea that communication systems should feel understandable, visible, and institutionally grounded.
 
             </p>
 
@@ -275,7 +270,7 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
 
         <div class="border border-black/10 p-8 bg-white/40">
           <h3 class="font-semibold text-lg mb-4">GST Registration</h3>
-          <p class="text-black/70 leading-8 justify-text">
+          <p class="text-black/70 leading-8">
             GSTIN: 29BDHPJ2024A1Z4<br>
             Legal Name: RAJKUMAR JINDAL<br>
             Trade Name: HAMARE SANDESH
@@ -284,14 +279,14 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
 
         <div class="border border-black/10 p-8 bg-white/40">
           <h3 class="font-semibold text-lg mb-4">Verified Communication</h3>
-          <p class="text-black/70 leading-8 justify-text">
+          <p class="text-black/70 leading-8">
             WhatsApp-based interaction infrastructure with verified identity-oriented communication systems.
           </p>
         </div>
 
         <div class="border border-black/10 p-8 bg-white/40">
           <h3 class="font-semibold text-lg mb-4">Operational Presence</h3>
-          <p class="text-black/70 leading-8 justify-text">
+          <p class="text-black/70 leading-8">
             Public-facing communication structure with visible ownership and transparent support accessibility.
           </p>
         </div>
@@ -343,7 +338,7 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
             Office
           </div>
 
-          <p class="leading-9 text-black/70 justify-text">
+          <p class="leading-9 text-black/70">
             1946 21st A Main Rd<br>
             HSR Layout Sector 1<br>
             Bengaluru, Karnataka, India
@@ -367,10 +362,10 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
         <div>
 
           <h3 class="serif text-4xl mb-6">
-            Hamare Sandesh
+            Humare Sandesh
           </h3>
 
-          <p class="text-black/65 text-lg leading-9 max-w-xl justify-text">
+          <p class="text-black/65 text-lg leading-9 max-w-xl">
 
             Human-centered communication infrastructure focused on transparent citizen interaction and verified messaging accessibility.
 
@@ -436,7 +431,7 @@ url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&au
       <div class="border-t border-black/10 mt-16 pt-10 text-black/50 text-sm flex flex-col md:flex-row gap-4 md:justify-between">
 
         <div>
-          © 2026 Hamare Sandesh. All rights reserved.
+          © 2026 Humare Sandesh. All rights reserved.
         </div>
 
         <div>
